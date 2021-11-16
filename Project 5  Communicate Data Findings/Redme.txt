@@ -1,0 +1,49 @@
+Communicate Data Findings (Loan Data from Prosper)
+
+
+This data set contains 113,937 loans and 81 columns, variables including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
+
+
+Main Findings
+
+* The maximum loan term is 36 months, with approximately 87,778 borrowers.
+
+* The loan status is 56,576 currently in progress, followed by 38074 completed loans.
+
+* The Borrower's annual percentage rate for 3,672 loans is equal to 0.35797%.
+
+* 18,345 loans fall into the Prosper Rating (numeric) is 4 and the lowest rating is 7 with 5,372 loans.
+
+* The highest literal prosper rating is C by 18345 loans, followed by B for 15581 loans and A with 14551 loans.
+
+* Based on the prosper score, the largest percentage of loans are located at 4 points with 12595 and 992 loans score 1 which are at risk, as 10 is considered the least risky point and 1 is the highest risk score.
+
+* The most selected listing category of loans is debt consolidation with 58,308 loans.
+
+* Employment status of borrowers reached the largest percentage of employees, followed by full-time employees and the least for retirees.
+
+* The number of homeowners is57478 greater than the number of non-home-owning borrowers which is 56459.
+
+* The number of borrowers in groups reached the lowest percentage of those who did not participate in groups, whose number reached 12719 and 101,218 for those in group.
+
+* The highest percentage of borrowers' income ranges between $25,000-49,999, and there are 806 unemployed, while 621 borrowers do not receive any income.
+
+* The average days for borrowers late for payment was 152.81 and 293 borrowers were late for 121 days.
+
+* The highest amount borrowed is 35,000 $ and the lowest amount is 1,000 $.
+
+* It was found that 113067 loans were financed from 113,937 loans.
+
+* A loan was supported by 27,814 investors, and this is the highest loan was funded from all loans supported.
+
+* There was a direct relationship between income and the amount of borrowing. The higher the income, the greater the amount of borrowing. Those whose income exceeded 100,000 borrowed up to 35,000, while those whose income ranged between 50,000-74,999 borrowed the equivalent of $25,000.
+
+* The relationship between funding percentage and prosper score, Loans with a high risk prosper score equal 1, the most loans funding.
+
+* Comparison between Investment percentage based on listing category debt consolidation loans got the highest investment rate with more than 1200 investments.
+
+* It was noted that the amount of the monthly payment depends on the job status of the borrower, as the employees are the most paid monthly loans.
+
+* The comparison between both income and the listing category is that the highest percentage of non-employees are interested in Medical/Dental, while those whose income reaches 25000 are in green loans.
+
+
