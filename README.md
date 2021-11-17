@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data Analysis
 
 # Project 1: Exploring weather trends
 Analyze local and global temperature data and compare temperature trends in the chosen location with general global temperature trends.
@@ -18,7 +18,7 @@ A number of characteristics about the patient are included in each row.
 A/B testing is a method of comparing two versions of a webpage against each other to determine which one performs better. 
 
 ## Data:
-Data contain user id - timestamp - group: control, treatment - landing page: old page, new page - converte: 0,1
+Data file contain user id - timestamp - group: control, treatment - landing page: old page, new page - converte: 0,1
 
 
 # Project 4: Wrangle and Analyze Data
